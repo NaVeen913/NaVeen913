@@ -154,7 +154,7 @@ Production deployment & scalable architectures
 
 Contact
 GitHub: https://github.com/NaVeen913
-LinkedIn: linkedin.com/in/naveenkrishna-g
+LinkedIn: https://www.linkedin.com/in/naveenkrishna-g/
 Email: guntinaveenkrishna@gmail.com
 
 
